@@ -164,8 +164,9 @@ type AppResource struct {
 }
 
 var AppToolMap = map[string]string{
-	"mysql": "phpmyadmin",
-	"redis": "redis-commander",
+	"mysql":   "phpmyadmin",
+	"redis":   "redis-commander",
+	"mongodb": "mongo-express",
 }
 
 type AppInstallInfo struct {

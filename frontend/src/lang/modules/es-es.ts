@@ -460,6 +460,7 @@ const message = {
     },
     database: {
         manage: 'Administrar base de datos',
+        manageHelper: 'Acceder a {0} usando la herramienta de gestión web {1}',
         deleteBackupHelper: 'Eliminar copias de seguridad de la base de datos simultáneamente',
         delete: 'La operación de eliminación no se puede revertir, por favor introduzca "',
         deleteHelper: '" para eliminar esta base de datos',
