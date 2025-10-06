@@ -455,6 +455,7 @@ const message = {
     },
     database: {
         manage: 'Manage database',
+        manageHelper: 'Access {0} using the {1} web management tool',
         deleteBackupHelper: 'Delete database backups simultaneously',
         delete: 'Delete operation cannot be rolled back, please input "',
         deleteHelper: '" to delete this database',

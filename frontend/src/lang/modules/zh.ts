@@ -443,6 +443,7 @@ const message = {
     },
     database: {
         manage: '管理',
+        manageHelper: '使用 {1} Web 管理工具访问 {0}',
         deleteBackupHelper: '同时删除数据库备份',
         delete: '删除操作无法回滚，请输入 "',
         deleteHelper: '" 删除此数据库',
